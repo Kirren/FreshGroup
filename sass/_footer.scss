@@ -1,0 +1,24 @@
+footer{
+	box-shadow: inherit;
+	background-color: $mmgrey;
+	height: 53px;
+	padding: 1.87% 45.1% 0 6.6%;
+	letter-spacing: 0.1px;
+	white-space: nowrap;
+	div{
+		background: url(../images/icon-separator-single.png) no-repeat;
+		background-position: 52% 75%;
+		span{
+			display: inline-block;
+			color: white;
+			font:{
+				family:Tahoma;
+				size:10px;
+			}
+			margin: 0 4%;
+			span{
+				text-decoration: underline;
+			}
+		}
+	}
+}
